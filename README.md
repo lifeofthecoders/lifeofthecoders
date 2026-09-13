@@ -1338,4 +1338,18 @@ Regression Sign-Off
 
 <p>⭐ <b>Thanks for visiting my profile!</b></p>
 
+<!-- ============================================================
+     GITHUB CONTRIBUTION SNAKE
+     ============================================================ -->
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/lifeofthecoders/lifeofthecoders/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="97%"
+  />
+</p>
+
+<hr/>
+
 </div>
