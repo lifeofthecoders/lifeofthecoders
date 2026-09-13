@@ -1,0 +1,71 @@
+name: Generate Snake Animation
+
+on:
+  # Run automatically every 12 hours
+  schedule:
+    - cron: "0 */12 * * *"
+
+  # Allow manual execution from GitHub Actions
+  workflow_dispatch:
+
+  # Run whenever changes are pushed to main
+  push:
+    branches:
+      - main
+
+
+jobs:
+  generate:
+
+    # Required permission to publish the generated SVG
+    permissions:
+      contents: write
+
+    runs-on: ubuntu-latest
+
+    timeout-minutes: 5
+
+
+    steps:
+
+      # ============================================================
+      # Generate GitHub contribution Snake animation
+      # ============================================================
+
+      - name: Generate GitHub Contribution Snake
+
+        uses: Platane/snk/svg-only@v3
+
+        with:
+
+          # Your GitHub username
+          github_user_name: lifeofthecoders
+
+          # Generate both normal and dark-mode versions
+          outputs: |
+
+            dist/github-contribution-grid-snake.svg
+
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+
+      # ============================================================
+      # Publish generated SVG files to output branch
+      # ============================================================
+
+      - name: Publish Snake SVG
+
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+
+        with:
+
+          # Generated files will be published here
+          target_branch: output
+
+          # Directory containing generated SVG files
+          build_dir: dist
+
+        env:
+
+          # GitHub automatically provides this token
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
