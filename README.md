@@ -1,35 +1,102 @@
 <div align="center">
 
+<!-- ==================== PROFILE IMAGE ==================== -->
+
+<img src="./profile.png"
+     alt="Manual Quality Analyst"
+     width="230"
+     height="230">
+
+<br><br>
+
+<!-- ==================== TITLE ==================== -->
+
 <h1>🧪 Manual Quality Analyst</h1>
 
-<h3>Software Testing • Quality Assurance • Web & Mobile Testing</h3>
+<h3>Software Testing • Quality Assurance</h3>
 
 <p>
-<b>Finding Bugs • Improving Quality • Protecting User Experience</b>
+<b>Web Testing • Mobile Testing • API Testing</b>
 </p>
 
 <br>
 
-<img src="https://img.shields.io/badge/Manual%20Testing-Quality%20Assurance-2ea44f?style=for-the-badge" alt="Manual Testing">
-<img src="https://img.shields.io/badge/Functional%20Testing-Software%20Testing-0969da?style=for-the-badge" alt="Functional Testing">
-<img src="https://img.shields.io/badge/Web%20Testing-QA-8250df?style=for-the-badge" alt="Web Testing">
-<img src="https://img.shields.io/badge/Mobile%20Testing-QA-e36209?style=for-the-badge" alt="Mobile Testing">
+<!-- ==================== QA EXPERTISE ==================== -->
+
+<p>
+🔎 <b>Manual Testing</b>
+&nbsp; • &nbsp;
+⚙️ <b>Functional Testing</b>
+&nbsp; • &nbsp;
+🔄 <b>Regression Testing</b>
+</p>
+
+<p>
+🚦 <b>Smoke & Sanity Testing</b>
+&nbsp; • &nbsp;
+📱 <b>Mobile Application Testing</b>
+</p>
+
+<p>
+🌐 <b>Web Application Testing</b>
+&nbsp; • &nbsp;
+🔌 <b>API Testing</b>
+&nbsp; • &nbsp;
+🐞 <b>Bug Reporting & Defect Management</b>
+</p>
+
+<br>
+
+<!-- ==================== QA FOCUS ==================== -->
+
+<hr>
+
+<h3>🎯 QA Focus</h3>
+
+<p>
+<b>Finding Defects • Improving Quality • Protecting User Experience</b>
+</p>
+
+<hr>
+
+<br>
+
+<!-- ==================== SKILL BADGES ==================== -->
+
+<img src="https://img.shields.io/badge/MANUAL%20TESTING-2EA44F?style=for-the-badge">
+<img src="https://img.shields.io/badge/QUALITY%20ASSURANCE-0969DA?style=for-the-badge">
+<img src="https://img.shields.io/badge/WEB%20TESTING-8250DF?style=for-the-badge">
+<img src="https://img.shields.io/badge/MOBILE%20TESTING-E36209?style=for-the-badge">
 
 <br><br>
 
-<img src="https://img.shields.io/badge/API%20Testing-Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white" alt="API Testing">
-<img src="https://img.shields.io/badge/Bug%20Reporting-Defect%20Management-d1242f?style=for-the-badge" alt="Bug Reporting">
-<img src="https://img.shields.io/badge/Regression%20Testing-Quality%20Control-1f883d?style=for-the-badge" alt="Regression Testing">
+<img src="https://img.shields.io/badge/API%20TESTING-FF6C37?style=for-the-badge">
+<img src="https://img.shields.io/badge/REGRESSION%20TESTING-5319E7?style=for-the-badge">
+<img src="https://img.shields.io/badge/BUG%20REPORTING-D1242F?style=for-the-badge">
 
-<br><br>
+<br><br><br>
+
+<!-- ==================== SOCIAL LINKS ==================== -->
 
 <a href="https://github.com/lifeofthecoders">
-<img src="https://img.shields.io/badge/GitHub-lifeofthecoders-181717?style=for-the-badge&logo=github" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-lifeofthecoders-181717?style=for-the-badge&logo=github">
 </a>
 
+&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/sumit-panchal-b790a8236/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+
+<br><br>
+
+<!-- ==================== CLOSING STATEMENT ==================== -->
+
+<h3>✨ Quality is not just finding bugs — it's preventing them. ✨</h3>
+
+<p>
+<b>Testing with curiosity • Validating with precision • Delivering with confidence</b>
+</p>
 
 </div>
 
