@@ -1,13 +1,15 @@
+<p align="center">
+  <img src="github-contribution-animation.svg" alt="GitHub Contribution Graph" width="850"/>
+</p>
+
+<table>
+  <tr>
+    <td valign="centre"><img src="terminal-card.svg" alt="ASCII Portrait" width="400"/></td>
+    <td valign="top"><img src="info-card.svg" alt="Info Card" width="500"/></td>
+  </tr>
+</table>
+
 <div align="center">
-
-<!-- ==================== PROFILE IMAGE ==================== -->
-
-<img src="./profile.png"
-     alt="Manual Quality Analyst"
-     width="230"
-     height="230">
-
-<br><br>
 
 <!-- ==================== TITLE ==================== -->
 
