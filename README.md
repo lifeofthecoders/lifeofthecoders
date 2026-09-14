@@ -1599,6 +1599,534 @@ Regression Sign-Off
 
 <hr>
 
+<!-- ============================================================
+     GITHUB ANALYTICS & QA ACTIVITY
+     CLASSY DARK QA DASHBOARD
+     ============================================================ -->
+
+<div align="center">
+
+<h2>📊 GitHub Analytics &amp; QA Activity</h2>
+
+<p>
+<b>Code • Test • Document • Improve • Repeat</b>
+</p>
+
+<p>
+<img
+src="https://img.shields.io/badge/QUALITY-FOCUSED-00C2FF?style=for-the-badge"
+alt="Quality Focused"
+/>
+
+<img
+src="https://img.shields.io/badge/MANUAL-QA-7C3AED?style=for-the-badge"
+alt="Manual QA"
+/>
+
+<img
+src="https://img.shields.io/badge/CONTINUOUS-IMPROVEMENT-00D084?style=for-the-badge"
+alt="Continuous Improvement"
+/>
+</p>
+
+<br>
+
+<!-- ============================================================
+     CLASSY DARK ANALYTICS DASHBOARD
+     
+     IMPORTANT:
+     Upload the dashboard image to:
+     lifeofthecoders/lifeofthecoders
+
+     File name:
+     github-qa-analytics-dashboard.png
+     ============================================================ -->
+
+<a href="https://github.com/lifeofthecoders">
+
+<img
+src="https://raw.githubusercontent.com/lifeofthecoders/lifeofthecoders/main/github-qa-analytics-dashboard.png"
+alt="GitHub Analytics and QA Activity Dashboard"
+width="100%"
+/>
+
+</a>
+
+<br><br>
+
+<!-- ============================================================
+     LIVE GITHUB INFORMATION
+     ============================================================ -->
+
+<table align="center" width="96%" cellpadding="10" cellspacing="8">
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>📈 GitHub Activity</h3>
+
+<p align="center">
+
+<a href="https://github.com/lifeofthecoders">
+
+<img
+src="https://img.shields.io/github/followers/lifeofthecoders?label=Followers&amp;style=for-the-badge&amp;logo=github"
+alt="GitHub Followers"
+/>
+
+</a>
+
+<a href="https://github.com/lifeofthecoders?tab=repositories">
+
+<img
+src="https://img.shields.io/github/stars/lifeofthecoders?label=Profile%20Stars&amp;style=for-the-badge&amp;logo=github"
+alt="GitHub Stars"
+/>
+
+</a>
+
+</p>
+
+<p align="center">
+
+<img
+src="https://img.shields.io/github/commit-activity/y/lifeofthecoders/Sumit-Panchal-QA-Portfolio?label=QA%20Portfolio%20Commits&amp;style=for-the-badge&amp;logo=github"
+alt="QA Portfolio Commits"
+/>
+
+</p>
+
+<p align="center">
+
+<b>
+QA Projects • Testing Documentation • Continuous Improvement
+</b>
+
+</p>
+
+</td>
+
+
+<td width="50%" valign="top">
+
+<h3>🔥 Contribution Consistency</h3>
+
+<p align="center">
+
+<img
+src="https://img.shields.io/badge/CONSISTENCY-QUALITY%20FIRST-FF8A00?style=for-the-badge"
+alt="Quality First"
+/>
+
+</p>
+
+<p align="center">
+
+<b>
+Small Steps → Stronger Testing → Better Releases
+</b>
+
+</p>
+
+<p align="center">
+
+Requirement Analysis
+→
+Test Design
+→
+Execution
+→
+Defect Reporting
+→
+Retesting
+→
+Regression
+→
+Release
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<!-- ============================================================
+     🎯 QA ACTIVITY OVERVIEW
+     ============================================================ -->
+
+<div align="center">
+
+<h3>🎯 QA Activity Overview</h3>
+
+<br>
+
+<table width="96%" align="center" cellpadding="0" cellspacing="8" border="0">
+
+<tr>
+
+<!-- ================= MANUAL TESTING ================= -->
+
+<td width="20%" align="center" valign="top">
+
+<table width="100%" cellpadding="8" cellspacing="0" border="0">
+
+<tr>
+<td align="center" height="55">
+
+🧪
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<hr>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" height="45">
+
+<b>Manual Testing</b>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" height="70">
+
+<small>
+Functional • Regression
+<br>
+Smoke • Sanity
+</small>
+
+</td>
+</tr>
+
+</table>
+
+</td>
+
+
+<!-- ================= WEB QA ================= -->
+
+<td width="20%" align="center" valign="top">
+
+<table width="100%" cellpadding="8" cellspacing="0" border="0">
+
+<tr>
+<td align="center" height="55">
+
+🌐
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<hr>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" height="45">
+
+<b>Web QA</b>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" height="70">
+
+<small>
+UI/UX • Responsive
+<br>
+Cross-Browser
+</small>
+
+</td>
+</tr>
+
+</table>
+
+</td>
+
+
+<!-- ================= MOBILE QA ================= -->
+
+<td width="20%" align="center" valign="top">
+
+<table width="100%" cellpadding="8" cellspacing="0" border="0">
+
+<tr>
+<td align="center" height="55">
+
+📱
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<hr>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" height="45">
+
+<b>Mobile QA</b>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" height="70">
+
+<small>
+Compatibility • Usability
+<br>
+Real-World Scenarios
+</small>
+
+</td>
+</tr>
+
+</table>
+
+</td>
+
+
+<!-- ================= API TESTING ================= -->
+
+<td width="20%" align="center" valign="top">
+
+<table width="100%" cellpadding="8" cellspacing="0" border="0">
+
+<tr>
+<td align="center" height="55">
+
+🔌
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<hr>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" height="45">
+
+<b>API Testing</b>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" height="70">
+
+<small>
+Request • Response
+<br>
+Validation
+</small>
+
+</td>
+</tr>
+
+</table>
+
+</td>
+
+
+<!-- ================= DEFECT MANAGEMENT ================= -->
+
+<td width="20%" align="center" valign="top">
+
+<table width="100%" cellpadding="8" cellspacing="0" border="0">
+
+<tr>
+<td align="center" height="55">
+
+🐞
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<hr>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" height="45">
+
+<b>Defect Management</b>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" height="70">
+
+<small>
+Reporting • Tracking
+<br>
+Retesting • Verification
+</small>
+
+</td>
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<!-- ============================================================
+     🏷️ QA SPECIALTY BADGES
+     COMPACT + PERFECTLY CENTERED
+     ============================================================ -->
+
+<div align="center">
+
+<table align="center" width="96%" cellpadding="0" cellspacing="0" border="0">
+
+<tr>
+
+<td width="20%" align="center" valign="middle">
+
+<img
+src="https://img.shields.io/badge/DEFECT-DETECTION-EF4444?style=for-the-badge"
+alt="Defect Detection"
+/>
+
+</td>
+
+<td width="20%" align="center" valign="middle">
+
+<img
+src="https://img.shields.io/badge/TEST-DOCUMENTATION-FACC15?style=for-the-badge"
+alt="Test Documentation"
+/>
+
+</td>
+
+<td width="20%" align="center" valign="middle">
+
+<img
+src="https://img.shields.io/badge/REGRESSION-COVERAGE-00D084?style=for-the-badge"
+alt="Regression Coverage"
+/>
+
+</td>
+
+<td width="20%" align="center" valign="middle">
+
+<img
+src="https://img.shields.io/badge/RELEASE-VALIDATION-8B5CF6?style=for-the-badge"
+alt="Release Validation"
+/>
+
+</td>
+
+<td width="20%" align="center" valign="middle">
+
+<img
+src="https://img.shields.io/badge/USER-EXPERIENCE-00C2FF?style=for-the-badge"
+alt="User Experience"
+/>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+<!-- ============================================================
+     QUALITY ENGINEERING FOCUS
+     ============================================================ -->
+
+<table align="center" width="96%" cellpadding="12">
+
+<tr>
+
+<td align="center">
+
+<h3>🧠 Quality Engineering Focus</h3>
+
+<p>
+
+<b>
+Finding Defects Early
+&nbsp; • &nbsp;
+Protecting Existing Functionality
+&nbsp; • &nbsp;
+Improving Test Coverage
+</b>
+
+</p>
+
+<p>
+
+<b>
+Validating Real User Journeys
+&nbsp; • &nbsp;
+Reducing Regression Risk
+&nbsp; • &nbsp;
+Improving Release Confidence
+</b>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<p>
+
+<i>
+“Test Today for a Better Tomorrow.”
+</i>
+
+</p>
+
+</div>
+
+<hr>
+
 <h2>📊 GitHub Profile</h2>
 
 <div align="center">
