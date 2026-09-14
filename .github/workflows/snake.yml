@@ -1,14 +1,14 @@
-name: Generate Snake Animation
+name: Generate QA GitHub Snake
 
 on:
-  # Run automatically every 12 hours
+  # Automatically update every 12 hours
   schedule:
     - cron: "0 */12 * * *"
 
-  # Allow manual execution from GitHub Actions
+  # Allow manual execution from Actions
   workflow_dispatch:
 
-  # Run whenever changes are pushed to main
+  # Regenerate whenever the main branch changes
   push:
     branches:
       - main
@@ -17,7 +17,7 @@ on:
 jobs:
   generate:
 
-    # Required permission to publish the generated SVG
+    # Required to publish the generated SVG to the output branch
     permissions:
       contents: write
 
@@ -29,40 +29,43 @@ jobs:
     steps:
 
       # ============================================================
-      # Generate GitHub contribution Snake animation
+      # Generate GitHub Contribution Snake
       # ============================================================
 
-      - name: Generate GitHub Contribution Snake
+      - name: Generate QA Contribution Snake
 
         uses: Platane/snk/svg-only@v3
 
         with:
 
-          # Your GitHub username
+          # GitHub profile username
           github_user_name: lifeofthecoders
 
-          # Generate both normal and dark-mode versions
+          # Generate a clean light version
+          # and a dark version for the GitHub profile.
+          #
+          # Custom colors are supported by snk v3.
           outputs: |
 
-            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.svg?color_snake=#0969DA&color_dots=#161B22,#0E4429,#006D32,#26A641,#39D353
 
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#58A6FF&color_dots=#161B22,#0E4429,#006D32,#26A641,#39D353
 
 
       # ============================================================
-      # Publish generated SVG files to output branch
+      # Publish generated Snake files
       # ============================================================
 
-      - name: Publish Snake SVG
+      - name: Publish Snake Animation
 
         uses: crazy-max/ghaction-github-pages@v3.1.0
 
         with:
 
-          # Generated files will be published here
+          # Publish generated SVG files here
           target_branch: output
 
-          # Directory containing generated SVG files
+          # Directory containing generated files
           build_dir: dist
 
         env:
