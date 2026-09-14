@@ -294,6 +294,18 @@
   </a>
 </p>
 
+<p align="center">
+
+<b>40% reduction in post-production defects</b>
+&nbsp; • &nbsp;
+<b>99% release stability</b>
+&nbsp; • &nbsp;
+<b>50+ critical issues prevented</b>
+&nbsp; • &nbsp;
+<b>100% on-time testing commitments</b>
+
+</p>
+
 <table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
