@@ -188,6 +188,278 @@
 
 <hr>
 
+<!-- ================= QA EXCELLENCE / COMPETITIVE-STYLE SECTION ================= -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=1f232a&height=120&section=header&text=🏆%20QA%20Testing%20Excellence&fontSize=30&fontColor=ffffff" width="100%" alt="QA Testing Excellence"/>
+</div>
+
+<!-- QA METRICS / HIGHLIGHTS -->
+
+<p align="center">
+  <a href="https://lifeofthecoders.github.io/Sumit-Panchal-QA-Portfolio/#/portfolio">
+    <img src="https://img.shields.io/badge/Manual%20QA-Testing%20Focused-2EA44F?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Manual QA"/>
+  </a>
+  <a href="https://lifeofthecoders.github.io/Sumit-Panchal-QA-Portfolio/#/portfolio">
+    <img src="https://img.shields.io/badge/Web-Application%20Testing-0969DA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web Testing"/>
+  </a>
+  <a href="https://lifeofthecoders.github.io/Sumit-Panchal-QA-Portfolio/#/portfolio">
+    <img src="https://img.shields.io/badge/Mobile-App%20Testing-8250DF?style=for-the-badge&logo=android&logoColor=white" alt="Mobile Testing"/>
+  </a>
+  <a href="https://lifeofthecoders.github.io/Sumit-Panchal-QA-Portfolio/#/portfolio">
+    <img src="https://img.shields.io/badge/API-Testing-E36209?style=for-the-badge&logo=postman&logoColor=white" alt="API Testing"/>
+  </a>
+</p>
+
+<!-- BALANCED TWO-COLUMN SHOWCASE -->
+
+<table align="center" width="100%" border="0">
+<tr>
+
+<td align="center" width="50%" valign="top">
+
+<h3>🧪 QA Coverage</h3>
+
+<table width="100%">
+<tr>
+<td align="center">🧪<br><b>Manual</b></td>
+<td align="center">⚙️<br><b>Functional</b></td>
+<td align="center">🔄<br><b>Regression</b></td>
+</tr>
+
+<tr>
+<td align="center">🚦<br><b>Smoke</b></td>
+<td align="center">🔎<br><b>Sanity</b></td>
+<td align="center">🧭<br><b>Exploratory</b></td>
+</tr>
+
+<tr>
+<td align="center">🌐<br><b>Web</b></td>
+<td align="center">📱<br><b>Mobile</b></td>
+<td align="center">🔌<br><b>API</b></td>
+</tr>
+
+<tr>
+<td align="center">🎨<br><b>UI</b></td>
+<td align="center">👤<br><b>UX</b></td>
+<td align="center">🐞<br><b>Defects</b></td>
+</tr>
+</table>
+
+<br>
+
+<p>
+<b>Requirement Analysis → Test Design → Execution → Defect Reporting → Retesting → Regression → Release Validation</b>
+</p>
+
+</td>
+
+<td align="center" width="50%" valign="top">
+
+<h3>🎯 QA Focus</h3>
+
+<p>
+<b>Think Beyond the Happy Path</b>
+</p>
+
+<p>
+❓ Positive & Negative Scenarios<br>
+❓ Edge Cases & Boundary Conditions<br>
+❓ Business Rules & Validation<br>
+❓ UI / UX Consistency<br>
+❓ User Workflows & Navigation<br>
+❓ API Response Validation<br>
+❓ Cross-Browser & Responsive Behaviour<br>
+❓ Defect Reproduction & Verification
+</p>
+
+<br>
+
+<a href="https://lifeofthecoders.github.io/Sumit-Panchal-QA-Portfolio/#/portfolio">
+  <img src="https://img.shields.io/badge/Explore%20QA%20Portfolio-View%20Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore QA Portfolio"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<!-- ================= QA ACHIEVEMENTS ================= -->
+
+<h3 align="center">🏆 Key Achievements</h3>
+
+<p align="center">
+  <a href="https://lifeofthecoders.github.io/Sumit-Panchal-QA-Portfolio/#/portfolio">
+    <img src="https://img.shields.io/badge/QA%20Impact-Results%20Focused-181717?style=for-the-badge&logo=checkmarx&logoColor=white" alt="QA Impact"/>
+  </a>
+</p>
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+<ul>
+<li>📉 Achieved <b>40% reduction in post-production defects</b> through improved regression testing.</li>
+<li>🛡️ Maintained <b>99% release stability</b> across multiple project deployments.</li>
+<li>🐞 Prevented <b>50+ critical and high-severity issues</b> through proactive testing and edge-case validation.</li>
+</ul>
+</td>
+<td width="50%" valign="top">
+<ul>
+<li>⏱️ Delivered <b>100% on-time testing commitments</b> across sprint cycles.</li>
+<li>🎯 Improved <b>test coverage and defect detection accuracy</b> through structured test case design.</li>
+<li>🚀 Supported <b>client UAT, retesting, regression cycles, and production release validation</b>.</li>
+</ul>
+</td>
+</tr>
+</table>
+
+<!-- ================= QA TESTING ARSENAL ================= -->
+
+<div align="center">
+
+<h2>⚡ QA Testing Arsenal</h2>
+
+<p>
+  <b>Manual Testing • Web Testing • Mobile Testing • API Testing • Defect Management</b>
+</p>
+
+</div>
+
+<table align="center" width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🧪 Testing Expertise</h3>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Manual%20Testing-181717?style=for-the-badge&logo=checkmarx&logoColor=white" />
+<img src="https://img.shields.io/badge/Functional%20Testing-181717?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Regression%20Testing-181717?style=for-the-badge" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Smoke%20Testing-181717?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Sanity%20Testing-181717?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Exploratory%20Testing-181717?style=for-the-badge" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Integration%20Testing-181717?style=for-the-badge" />
+<img src="https://img.shields.io/badge/System%20Testing-181717?style=for-the-badge" />
+<img src="https://img.shields.io/badge/UAT%20Testing-181717?style=for-the-badge" />
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🌐 Application Testing</h3>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Web%20Application%20Testing-181717?style=for-the-badge&logo=googlechrome&logoColor=white" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Mobile%20Application%20Testing-181717?style=for-the-badge&logo=android&logoColor=white" />
+
+<br>
+
+<img src="https://img.shields.io/badge/API%20Testing-181717?style=for-the-badge&logo=postman&logoColor=white" />
+
+<br>
+
+<img src="https://img.shields.io/badge/UI%2FUX%20Validation-181717?style=for-the-badge" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Responsive%20%26%20Cross--Browser%20Testing-181717?style=for-the-badge" />
+
+</p>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<table align="center" width="100%">
+<tr>
+
+<td width="33%" align="center" valign="top">
+
+<h3>🐞 Defect Management</h3>
+
+<p>
+Bug Reporting<br>
+Severity & Priority<br>
+Defect Lifecycle<br>
+Retesting<br>
+Defect Verification<br>
+Regression Validation
+</p>
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+<h3>📋 QA Documentation</h3>
+
+<p>
+Test Scenarios<br>
+Test Cases<br>
+Test Data<br>
+Checklists<br>
+Regression Suites<br>
+Test Execution Reports
+</p>
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+<h3>🎯 Quality Focus</h3>
+
+<p>
+Positive Scenarios<br>
+Negative Scenarios<br>
+Edge Cases<br>
+Boundary Conditions<br>
+Business Rules<br>
+User Workflows
+</p>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<p>
+<b>Requirement Analysis → Test Design → Test Execution → Defect Reporting → Retesting → Regression → Release Validation</b>
+</p>
+
+<a href="https://lifeofthecoders.github.io/Sumit-Panchal-QA-Portfolio/#/portfolio">
+<img src="https://img.shields.io/badge/🧪%20Explore%20My%20QA%20Portfolio-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="QA Portfolio"/>
+</a>
+
+</div>
+
+<hr>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%" alt="Section Divider"/>
+</div>
+
+<hr>
+
 <h2>🧪 QA & Testing Expertise</h2>
 
 <table align="center">
