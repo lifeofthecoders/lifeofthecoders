@@ -104,7 +104,39 @@
 
 <hr>
 
-<h2>👋 About Me</h2>
+<h2 align="center">🚀 About Me</h2>
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+<h2>🧑‍💻 Who am I?</h2>
+
+<p>🧪 <b>Manual Quality Analyst</b> focused on delivering reliable, high-quality and user-friendly software.</p>
+
+<p>🔍 Passionate about <b>Software Testing, Quality Assurance and Defect Detection</b>, with a strong focus on identifying issues before they reach users.</p>
+
+<p>🌐 Experienced in <b>Web Application Testing</b>, validating functionality, UI behaviour, user workflows, responsiveness and cross-browser experiences.</p>
+
+<p>📱 Focused on <b>Mobile Application Testing</b>, validating application behaviour, usability, functional flows and real-world user scenarios.</p>
+
+<p>🔄 Strong focus on <b>Functional, Regression, Smoke and Sanity Testing</b> to ensure existing features continue working correctly after changes and releases.</p>
+
+<p>🐛 Believe that a good bug report should be <b>clear, reproducible, specific and actionable</b>, helping developers understand and resolve defects efficiently.</p>
+
+<p>🎯 My testing approach goes beyond the happy path — I think about <b>edge cases, validation, error handling, user experience and real-world scenarios</b>.</p>
+
+<p>🚀 Continuously learning and improving my testing practices to help teams deliver <b>stable, reliable and trustworthy software</b>.</p>
+
+</td>
+
+<td width="45%" align="center" valign="middle">
+
+<img src="https://raw.githubusercontent.com/lifeofthecoders/lifeofthecoders/main/profile.png" alt="Manual Quality Analyst" width="420">
+
+</td>
+</tr>
+</table>
 
 <p>
 I am a <b>Manual Quality Analyst</b> passionate about delivering reliable, user-friendly, and high-quality software products.
