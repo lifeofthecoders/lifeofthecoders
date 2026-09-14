@@ -84,7 +84,7 @@
 <img src="https://img.shields.io/badge/GitHub-lifeofthecoders-181717?style=for-the-badge&logo=github">
 </a>
 
-&nbsp;&nbsp;
+  
 
 <a href="https://www.linkedin.com/in/sumit-panchal-b790a8236/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -112,21 +112,29 @@
 
 <h2>🧑‍💻 Who am I?</h2>
 
-<p>🧪 <b>Manual Quality Analyst</b> focused on delivering reliable, high-quality and user-friendly software.</p>
+<p>
+🧪 <b>Manual Quality Analyst</b> passionate about delivering reliable, user-friendly, and high-quality software through structured and thoughtful testing.
+</p>
 
-<p>🔍 Passionate about <b>Software Testing, Quality Assurance and Defect Detection</b>, with a strong focus on identifying issues before they reach users.</p>
+<p>
+🔍 I focus on <b>Manual Testing, Functional Testing, Regression Testing, Smoke & Sanity Testing, Web Testing, Mobile Testing, API Testing, UI/UX Validation, Exploratory Testing, and Defect Management.</b>
+</p>
 
-<p>🌐 Experienced in <b>Web Application Testing</b>, validating functionality, UI behaviour, user workflows, responsiveness and cross-browser experiences.</p>
+<p>
+🎯 My QA approach combines the <b>business perspective</b> with the <b>end-user perspective</b>. I validate requirements, user workflows, business rules, positive and negative scenarios, edge cases, validation, error handling, and real-world usage conditions.
+</p>
 
-<p>📱 Focused on <b>Mobile Application Testing</b>, validating application behaviour, usability, functional flows and real-world user scenarios.</p>
+<p>
+🐞 I believe effective defect reporting should be <b>clear, reproducible, specific, and actionable</b>, making it easier for development teams to understand, resolve, and verify issues.
+</p>
 
-<p>🔄 Strong focus on <b>Functional, Regression, Smoke and Sanity Testing</b> to ensure existing features continue working correctly after changes and releases.</p>
+<p>
+🌐📱 I enjoy testing <b>web and mobile applications</b> across different workflows, devices, browsers, screen sizes, and usage conditions while keeping usability and overall product quality in focus.
+</p>
 
-<p>🐛 Believe that a good bug report should be <b>clear, reproducible, specific and actionable</b>, helping developers understand and resolve defects efficiently.</p>
-
-<p>🎯 My testing approach goes beyond the happy path — I think about <b>edge cases, validation, error handling, user experience and real-world scenarios</b>.</p>
-
-<p>🚀 Continuously learning and improving my testing practices to help teams deliver <b>stable, reliable and trustworthy software</b>.</p>
+<p>
+🚀 I continuously improve my testing practices with the goal of helping teams <b>find defects earlier, strengthen test coverage, protect existing functionality, and deliver better user experiences.</b>
+</p>
 
 </td>
 
@@ -134,24 +142,15 @@
 
 <img src="https://raw.githubusercontent.com/lifeofthecoders/lifeofthecoders/main/profile.png" alt="Manual Quality Analyst" width="420">
 
+<p><b>🧪 Manual QA • Software Testing • Quality Assurance</b></p>
+
 </td>
 </tr>
 </table>
 
-<p>
-I am a <b>Manual Quality Analyst</b> passionate about delivering reliable, user-friendly, and high-quality software products.
-</p>
+<br>
 
-<p>
-I specialize in <b>manual software testing, functional testing, regression testing, smoke testing, sanity testing, UI/UX validation, web application testing, mobile application testing, API testing, exploratory testing, and defect management.</b>
-</p>
-
-<p>
-My QA approach focuses on understanding software from both the <b>business perspective</b> and the <b>end-user perspective</b>.
-I don't only verify whether a feature works — I also investigate edge cases, unexpected behavior, usability issues, validation problems, data inconsistencies, and regression defects.
-</p>
-
-<table>
+<table align="center">
 <tr>
 <td width="50%" valign="top">
 
@@ -183,8 +182,6 @@ I don't only verify whether a feature works — I also investigate edge cases, u
 </tr>
 </table>
 
-<br>
-
 <blockquote>
 <b>“Quality is not just about finding bugs. Quality is about preventing problems, improving experiences, and delivering confidence.”</b>
 </blockquote>
@@ -193,7 +190,7 @@ I don't only verify whether a feature works — I also investigate edge cases, u
 
 <h2>🧪 QA & Testing Expertise</h2>
 
-<table>
+<table align="center">
 <tr>
 <th>Testing Area</th>
 <th>My Focus</th>
@@ -284,7 +281,7 @@ I don't only verify whether a feature works — I also investigate edge cases, u
 I test web applications across different browsers, screen sizes, user roles, and functional workflows.
 </p>
 
-<table>
+<table align="center">
 <tr>
 <td width="50%" valign="top">
 
@@ -339,7 +336,7 @@ I test web applications across different browsers, screen sizes, user roles, and
 I validate mobile applications with a strong focus on functionality, usability, compatibility, permissions, network behavior, and real-world user scenarios.
 </p>
 
-<table>
+<table align="center">
 <tr>
 <td width="50%" valign="top">
 
@@ -389,7 +386,7 @@ I validate mobile applications with a strong focus on functionality, usability, 
 A good defect report should allow developers and stakeholders to quickly understand and reproduce the problem.
 </p>
 
-<table>
+<table align="center">
 <tr>
 <th>Bug Report Field</th>
 <th>Purpose</th>
@@ -506,7 +503,7 @@ Closed
 I create and maintain structured QA documentation to ensure complete test coverage, clear communication, and traceability throughout the software development lifecycle.
 </p>
 
-<table>
+<table align="center">
 <tr>
 <th>Documentation</th>
 <th>Purpose</th>
@@ -568,7 +565,7 @@ I create and maintain structured QA documentation to ensure complete test covera
 
 <h2>🧠 Test Case Design Techniques</h2>
 
-<table>
+<table align="center">
 <tr>
 <td width="50%" valign="top">
 
@@ -598,7 +595,7 @@ I create and maintain structured QA documentation to ensure complete test covera
 
 <h3>📝 Test Case Structure</h3>
 
-<table>
+<table align="center">
 <tr>
 <th>Field</th>
 <th>Description</th>
@@ -670,7 +667,7 @@ I create and maintain structured QA documentation to ensure complete test covera
 
 <h2>🛠️ QA Tools & Technologies</h2>
 
-<table>
+<table align="center">
 <tr>
 <th>Category</th>
 <th>Tools / Technologies</th>
@@ -717,7 +714,7 @@ I create and maintain structured QA documentation to ensure complete test covera
 
 <h2>🚀 Featured QA Projects</h2>
 
-<table>
+<table align="center">
 <tr>
 <td width="50%" valign="top">
 
@@ -783,7 +780,7 @@ View Repository →
 My QA work is organized around practical software testing activities.
 </p>
 
-<table>
+<table align="center">
 <tr>
 <td align="center">🧪<br><b>Test Scenarios</b></td>
 <td align="center">✅<br><b>Test Cases</b></td>
@@ -816,7 +813,7 @@ My QA work is organized around practical software testing activities.
 My responsibilities as a Manual Quality Analyst include:
 </p>
 
-<table>
+<table align="center">
 <tr>
 <td width="50%" valign="top">
 
@@ -910,7 +907,7 @@ Release Confidence
 A strong QA mindset means thinking beyond the expected user flow.
 </p>
 
-<table>
+<table align="center">
 <tr>
 <td>❓ What if the user enters invalid data?</td>
 <td>❓ What if a mandatory field is empty?</td>
@@ -956,7 +953,7 @@ This mindset helps identify issues before they reach production.
 
 <h2>🔎 What I Look For</h2>
 
-<table>
+<table align="center">
 <tr>
 <th>Testing Area</th>
 <th>What I Validate</th>
@@ -1038,7 +1035,7 @@ This mindset helps identify issues before they reach production.
 
 <h2>💪 QA Strengths</h2>
 
-<table>
+<table align="center">
 <tr>
 <td align="center"><h3>🔍</h3><b>Attention to Detail</b><br>Finding small inconsistencies</td>
 <td align="center"><h3>🧠</h3><b>Analytical Thinking</b><br>Understanding user behavior</td>
@@ -1062,7 +1059,7 @@ This mindset helps identify issues before they reach production.
 
 <h2>📊 QA Testing Coverage</h2>
 
-<table>
+<table align="center">
 <tr>
 <th>🧪 Functional</th>
 <th>🎨 UI / UX</th>
@@ -1105,7 +1102,7 @@ This mindset helps identify issues before they reach production.
 
 <h2>📱 Web & Mobile QA Coverage</h2>
 
-<table>
+<table align="center">
 <tr>
 <td width="50%" valign="top">
 
@@ -1159,7 +1156,7 @@ This mindset helps identify issues before they reach production.
 As part of functional QA, I pay attention to security-related application behavior according to project requirements and assigned QA responsibilities.
 </p>
 
-<table>
+<table align="center">
 <tr>
 <td>🔐 Authentication Validation</td>
 <td>🛡️ Authorization Validation</td>
@@ -1221,7 +1218,7 @@ Regression Sign-Off
 
 <h2>🚦 Release Validation</h2>
 
-<table>
+<table align="center">
 <tr>
 <td>✅ Build Installation</td>
 <td>✅ Smoke Testing</td>
@@ -1252,7 +1249,7 @@ Regression Sign-Off
 
 <h2>📚 Currently Improving</h2>
 
-<table>
+<table align="center">
 <tr>
 <td>Advanced Manual Testing</td>
 <td>API Testing</td>
@@ -1289,7 +1286,7 @@ Regression Sign-Off
 
 <h2>🎯 QA Career Goals</h2>
 
-<table>
+<table align="center">
 <tr>
 <td>🎯 Build reliable testing processes</td>
 <td>🔍 Find defects earlier</td>
