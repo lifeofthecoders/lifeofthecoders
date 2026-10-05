@@ -5,7 +5,7 @@
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2800&pause=900&color=00C2FF&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Hi%2C+I'm+Sumit+Panchal;%F0%9F%A7%AA+Manual+Quality+Analyst;%F0%9F%92%BB+Software+Testing+Specialist;%F0%9F%8E%AF+Quality+Assurance+Enthusiast;%F0%9F%94%8E+Bug+Hunter;%F0%9F%A7%A0+Quality+Mindset+Advocate"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2800&pause=900&color=00C2FF&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Hi%2C+I'm+Sumit+Panchal;%F0%9F%A7%AA+Manual+Quality+Analyst;%F0%9F%94%8D+Functional+%26+Regression+Testing;%F0%9F%8C%90+Web+%26+Mobile+Application+Testing;%F0%9F%94%97+API+Testing+%26+Validation;%F0%9F%90%9E+Defect+Detection+%26+Prevention;%F0%9F%94%8E+Bug+Hunter;%F0%9F%8E%AF+Quality+Assurance+Enthusiast;%F0%9F%A7%A0+Quality+Assurance+Mindset;%F0%9F%92%BB+Tech+Explorer;%F0%9F%A4%96+AI+%2F+ML+Enthusiast"
   alt="Typing Animation"
 />
 
