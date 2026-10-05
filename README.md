@@ -2,6 +2,14 @@
   <img src="github-contribution-animation.svg" alt="GitHub Contribution Graph" width="850"/>
 </p>
 
+<div align="center">
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2800&pause=900&color=00C2FF&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Hi%2C+I'm+Sumit+Panchal;%F0%9F%A7%AA+Manual+Quality+Analyst;%F0%9F%92%BB+Software+Testing+Specialist;%F0%9F%8E%AF+Quality+Assurance+Enthusiast;%F0%9F%94%8E+Bug+Hunter;%F0%9F%A7%A0+Quality+Mindset+Advocate"
+  alt="Typing Animation"
+/>
+
+</div>
 <table>
   <tr>
     <td valign="centre"><img src="terminal-card.svg" alt="ASCII Portrait" width="400"/></td>
