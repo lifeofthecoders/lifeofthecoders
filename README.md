@@ -13,7 +13,7 @@
 <table>
   <tr>
     <td valign="centre"><img src="terminal-card.svg" alt="ASCII Portrait" width="400"/></td>
-    <td valign="top"><img src="info-card.svg" alt="Info Card" width="500"/></td>
+    <td valign="top"><img src="inf-card.svg" alt="Info Card" width="500"/></td>
   </tr>
 </table>
 
